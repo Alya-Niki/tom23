@@ -1,1 +1,1 @@
-var link = "https://topcontroldigital.website/";
+var link = "https://mabroasd.xyz/index.php?post=sus6mqquagqmhqhycrrx&gclid={gclid}&placement={placement}&adposition={adposition}&campid={campaignid}&device={device}&devicemodel={devicemodel}&creative={creative}&type=4001&pid=40A";
